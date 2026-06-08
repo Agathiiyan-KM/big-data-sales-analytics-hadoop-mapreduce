@@ -51,6 +51,22 @@ The dataset contains transactional sales records including product information, 
 - Demonstrated distributed data processing using MapReduce.
 - Produced business insights from sales performance trends.
 
+## Markdown
+
+### Project Screenshots
+
+### Hadoop Environment
+Screenshots available in the screenshots folder.
+
+### HDFS Data Storage
+Dataset uploaded and managed through HDFS.
+
+### MapReduce Processing
+Custom Java MapReduce program used for sales aggregation.
+
+### MongoDB Integration
+Processed data stored and managed within MongoDB.
+
 ## Skills Demonstrated
 
 - Big Data Analytics
