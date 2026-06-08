@@ -84,6 +84,10 @@ Processed data stored and managed within MongoDB.
 /screenshots
 /report
 
+## Project Impact
+
+This project demonstrates the application of distributed computing and big data analytics techniques to process large-scale retail transaction data and generate business insights for decision-making.
+
 ## Author
 
 Agathiiyan Krishna Muthri
